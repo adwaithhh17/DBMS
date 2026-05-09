@@ -252,13 +252,13 @@ The schema includes pre-populated data for:
 This project is licensed under the MIT License.
 
 ## Authors
- Adwaith R
+ Adwaith R ,
  Ashwin Rajesha Bhat
  
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - Built for football fans and data enthusiasts
-- Inspired by the beautiful game ⚽
+- Inspired by the beautiful game 
 - Sample data includes some of the world's top players and clubs
 
 
